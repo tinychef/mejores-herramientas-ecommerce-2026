@@ -1,5 +1,7 @@
 # Ecommerce y dropshipping en 2026: la plataforma vs. el proveedor
 
+![Comparativa 2026 — TonyCiencia](banner.png)
+
 Shopify es donde vive tu tienda. Alidrop y Spocket son de dónde sale el producto que vendés en esa tienda. Suena obvio explicado así, pero buena parte de la gente que arranca en dropshipping busca "la mejor plataforma de dropshipping" como si fuera una sola decisión — y termina comparando cosas que no compiten entre sí. Dónde armás la tienda y de dónde sale el producto son dos decisiones separadas, con criterios separados, y conviene resolverlas por separado.
 
 ## Comparativa rápida
